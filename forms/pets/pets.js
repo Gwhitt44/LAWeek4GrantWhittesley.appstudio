@@ -7,5 +7,5 @@ let lengthSal = withSal.length
 console.log(`The array (withSal) has ${lengthSal} names in it`)
 
 withSal.pop()
-console.log(`With popped ${withSal}`)
+console.log(`With popped: ${withSal}`)
 
